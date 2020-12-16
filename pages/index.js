@@ -5,49 +5,49 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>עורך דין ביטוח לאומי</title>
+        <title>עורך דין רשלנות רפואית</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <main>
         <h1 className="title">
-        צור קשר <a href="https://segelstein.com/%d7%aa%d7%91%d7%99%d7%a2%d7%95%d7%aa-%d7%91%d7%99%d7%98%d7%95%d7%97-%d7%9c%d7%90%d7%95%d7%9e%d7%99/">ביטוח לאומי</a>
+        צור קשר <a href="https://segelstein.com/%d7%a8%d7%a9%d7%9c%d7%a0%d7%95%d7%aa-%d7%a8%d7%a4%d7%95%d7%90%d7%99%d7%aa/">רשלנות רפואית</a>
         </h1>
 
         <p className="description">
-          אם נפצעת <code>תתבע</code>
+          , אם רימו אותך, אם גנבו ממך , אם התרשלו איתך . אם נפצעת <code>תתבע</code>
         </p>
 
         <div className="grid">
-          <a href="https://segelstein.com/%d7%aa%d7%91%d7%99%d7%a2%d7%95%d7%aa-%d7%91%d7%99%d7%98%d7%95%d7%97-%d7%9c%d7%90%d7%95%d7%9e%d7%99/" className="card">
-            <h3>ביטוח לאומי &rarr;</h3>
+          <a href="https://segelstein.com/%d7%a8%d7%a9%d7%9c%d7%a0%d7%95%d7%aa-%d7%a8%d7%a4%d7%95%d7%90%d7%99%d7%aa/" className="card">
+            <h3>רשלנות רפואית &rarr;</h3>
             <p>אם זה קרה לך , תתבע. אל תוותר, אל תכעס, תתבע. צור קשר עם עורך דין </p>
           </a>
 
-          <a href="https://segelstein.com/%d7%aa%d7%91%d7%99%d7%a2%d7%95%d7%aa-%d7%91%d7%99%d7%98%d7%95%d7%97-%d7%9c%d7%90%d7%95%d7%9e%d7%99/" className="card">
+          <a href="https://segelstein.com/%d7%a8%d7%a9%d7%9c%d7%a0%d7%95%d7%aa-%d7%a8%d7%a4%d7%95%d7%90%d7%99%d7%aa/" className="card">
             <h3>צור קשר &rarr;</h3>
-            <p>עורך דין ביטוח לאומי</p>
+            <p>עורך דין רשלנות רפואית</p>
           </a>
 
           <a
-            href="https://segelstein.com/%d7%aa%d7%91%d7%99%d7%a2%d7%95%d7%aa-%d7%91%d7%99%d7%98%d7%95%d7%97-%d7%9c%d7%90%d7%95%d7%9e%d7%99/"
+            href="https://segelstein.com/%d7%a8%d7%a9%d7%9c%d7%a0%d7%95%d7%aa-%d7%a8%d7%a4%d7%95%d7%90%d7%99%d7%aa/"
             className="card"
           >
-            <h3>ביטוח לאומי &rarr;</h3>
-            <p>עורך דין לביטוח לאומי, עוד ביטוח לאומי, עורך דין ביטוח לאומי</p>
+            <h3>רשלנות רפואית &rarr;</h3>
+            <p>עורך דין לרשלנות רפואית, עוד רשלנות רפואית, עורך דין רשלנות רפואית</p>
           </a>
 
           <a
-            href="https://segelstein.com/%d7%aa%d7%91%d7%99%d7%a2%d7%95%d7%aa-%d7%91%d7%99%d7%98%d7%95%d7%97-%d7%9c%d7%90%d7%95%d7%9e%d7%99/"
+            href="https://segelstein.com/%d7%a8%d7%a9%d7%9c%d7%a0%d7%95%d7%aa-%d7%a8%d7%a4%d7%95%d7%90%d7%99%d7%aa/"
             className="card"
           >
-            <h3>ביטוח לאומי &rarr;</h3>
+            <h3>רשלנות רפואית &rarr;</h3>
             <p>
               אל תצא פראייר תתטבע את המעסיק שלך, יש חוקים פה.
             </p>
           </a>
           <a
-            href="https://segelstein.com/%d7%aa%d7%91%d7%99%d7%a2%d7%95%d7%aa-%d7%91%d7%99%d7%98%d7%95%d7%97-%d7%9c%d7%90%d7%95%d7%9e%d7%99/"
+            href="https://segelstein.com/%d7%a8%d7%a9%d7%9c%d7%a0%d7%95%d7%aa-%d7%a8%d7%a4%d7%95%d7%90%d7%99%d7%aa/"
             className="card"
           ></a>
         </div>
@@ -63,7 +63,7 @@ export default function Home() {
 
       <footer>
         <a
-          href="https://segelstein.com/%d7%aa%d7%91%d7%99%d7%a2%d7%95%d7%aa-%d7%91%d7%99%d7%98%d7%95%d7%97-%d7%9c%d7%90%d7%95%d7%9e%d7%99/"
+          href="https://segelstein.com/%d7%a8%d7%a9%d7%9c%d7%a0%d7%95%d7%aa-%d7%a8%d7%a4%d7%95%d7%90%d7%99%d7%aa/"
           target="_blank"
           rel="noopener noreferrer"
         >
